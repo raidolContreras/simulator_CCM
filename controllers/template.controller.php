@@ -8,7 +8,7 @@ Class ControllerTemplate{
 
 	public function ctrBringTemplate(){
 
-		include "view/plantilla.php";
+		include "views/template.php";
 
 	}
 
