@@ -10,7 +10,7 @@
 
 				<li class="sidebar-item active ">
 
-					<a href="index.html" class='sidebar-link'>
+					<a href="Index" class='sidebar-link'>
 						<i data-feather="home" width="20"></i> 
 						<span>Dashboard</span>
 					</a>
